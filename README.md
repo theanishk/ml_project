@@ -67,7 +67,7 @@ python scripts/oecd_mei_download.py
 ```
 - Downloads Main Economic Indicators (MEI) from OECD via DBnomics API
 - Output: `data/raw data/oecd_mei_final.csv`
-- Includes: CPI, Industrial Production, Interest Rates, Stock Indices, Unemployment
+- Includes: CPI, Industrial Production, Interest Rates, Stock Indices
 
 **Step 2: Process OECD data**
 ```bash
