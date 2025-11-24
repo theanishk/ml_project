@@ -1,0 +1,28 @@
+# Core data science packages
+pandas>=1.5
+numpy>=1.24
+scikit-learn>=1.2
+matplotlib>=3.7
+seaborn>=0.12
+
+# ML & boosting
+xgboost>=1.7
+
+# Time series / stats
+statsmodels>=0.14
+
+# Data access
+dbnomics>=0.4
+
+# Notebook / tooling
+jupyter>=1.0
+notebook>=6.5
+ipykernel>=6.22
+
+# Utilities
+tqdm>=4.65
+joblib>=1.2
+
+# Optional (add if used):
+# tensorflow>=2.12
+# torch>=2.0
