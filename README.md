@@ -1,4 +1,4 @@
-# MFCI / ML Project
+# Predicting Economic Recessions Using a Panel Based Machine Learning Framework
 
 Overview
 - This repository contains data preparation scripts, notebooks and datasets used to build a Multi‑Factor Common Index (MFCI) and follow-up ML experiments.
